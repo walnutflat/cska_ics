@@ -1,0 +1,12 @@
+[project]
+name = "cska"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "arrow>=1.4.0",
+    "bs4>=0.0.2",
+    "pydantic>=2.12.5",
+    "requests>=2.32.5",
+]

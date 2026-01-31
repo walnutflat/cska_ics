@@ -1,7 +1,7 @@
 [project]
 name = "cska"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simple script to get PFC CSKA matches schedule in ics format"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
